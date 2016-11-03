@@ -105,7 +105,7 @@ public class Main {
         }
 
            for (VeiculoAcessorio veiculoAcessorio : controllerVA.read()) {
-            System.out.println("ID VeiculoAcessorio: " + veiculoAcessorio.getIdAcessorios());
+            System.out.println("IDD VeiculoAcessorio: " + veiculoAcessorio.getIdAcessorios());
         }
            
            int op = 0;
