@@ -37,7 +37,6 @@ public class CondPagamentoController {
             ConnectionFactory.closeConnection(con, stmt);
         } 
         
-        
     }
     
 }
